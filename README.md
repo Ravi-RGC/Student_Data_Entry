@@ -14,7 +14,6 @@ A Python + Tkinter based desktop application for managing student data with MySQ
 ---
 
 ## 🖼️ Screenshots
-(Add 2–3 images showing your UI — login screen, data table, etc.)
 
 ---
 
