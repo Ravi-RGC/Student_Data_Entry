@@ -1,16 +1,26 @@
-# College Student Management System
+# 🎓 Student Data Entry System
 
-👨‍🎓 Developed by Ravi Ranjan Kumar | UID: 25MCA20310
+A Python + Tkinter based desktop application for managing student data with MySQL database.
 
-This is a Python + Tkinter based Student Management System connected with MySQL.
+---
 
-## Features
-- Login System
-- Add / Update / Delete Students
-- Search & Export to CSV
-- Live Search & Scrollbar Fixed
+## ✨ Features
+- 🔐 Login system with admin authentication
+- 🧍‍♂️ Add / Update / Delete student records
+- 🔍 Search students dynamically
+- 📤 Export records to CSV
+- 🗄️ MySQL backend for data persistence
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+---
+
+## 🖼️ Screenshots
+(Add 2–3 images showing your UI — login screen, data table, etc.)
+
+---
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/YourUsername/Student_Data_Entry.git
+cd Student_Data_Entry
+pip install -r requirements.txt
+python student.py
